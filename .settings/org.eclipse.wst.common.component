@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="despachoEAR">
+    <wb-module deploy-name="icr_des_ear">
         <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
-        <dependent-module archiveName="despacho.jar" deploy-path="/" handle="module:/resource/icr_des_nco/icr_des_nco">
+        <dependent-module archiveName="icr_des_nco.jar" deploy-path="/" handle="module:/resource/icr_des_nco/icr_des_nco">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="despacho_comun.jar" deploy-path="/" handle="module:/resource/icr_des_com/icr_des_com">
+        <dependent-module archiveName="icr_des_com.jar" deploy-path="/" handle="module:/resource/icr_des_com/icr_des_com">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="despachoREST.war" deploy-path="/" handle="module:/resource/icr_des_rest/icr_des_rest">
+        <dependent-module archiveName="icr_des_rest.war" deploy-path="/" handle="module:/resource/icr_des_rest/icr_des_rest">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>

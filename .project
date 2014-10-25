@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>despachoEAR</name>
+	<name>icr_des_ear</name>
 	<comment></comment>
 	<projects>
 		<project>icr_des_nco</project>
