@@ -3,9 +3,9 @@
 	<name>despachoEAR</name>
 	<comment></comment>
 	<projects>
-		<project>despacho</project>
-		<project>despacho_comun</project>
-		<project>despachoREST</project>
+		<project>icr_des_nco</project>
+		<project>icr_des_com</project>
+		<project>icr_des_rest</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
