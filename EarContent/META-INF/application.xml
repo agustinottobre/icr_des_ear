@@ -6,7 +6,7 @@
   <module>
     <web>
       <web-uri>icr_des_rest.war</web-uri>
-      <context-root>despacho/ws</context-root>
+      <context-root>/despacho</context-root>
     </web>
   </module>
   <module>
