@@ -13,5 +13,8 @@
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="icr_des_web.war" deploy-path="/" handle="module:/resource/icr_des_web/icr_des_web">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

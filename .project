@@ -6,6 +6,7 @@
 		<project>icr_des_nco</project>
 		<project>icr_des_com</project>
 		<project>icr_des_rest</project>
+		<project>icr_des_web</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
